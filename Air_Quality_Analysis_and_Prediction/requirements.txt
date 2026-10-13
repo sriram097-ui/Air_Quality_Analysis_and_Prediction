@@ -1,0 +1,1 @@
+R packages: shiny, shinydashboard, DT, plotly, dplyr, readr, ggplot2, scales, lubridate, randomForest, tidyr

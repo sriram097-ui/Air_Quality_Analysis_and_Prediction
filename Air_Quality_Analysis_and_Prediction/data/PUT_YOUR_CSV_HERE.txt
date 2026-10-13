@@ -1,0 +1,1 @@
+Synthetic demonstration data is included as air_quality.csv. Replace it with your own compatible CSV if needed.
